@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Blueprint Africa is a group of volunteers and retired IT workers who have come together to help vulnerable people in the Global South protect themselves from scams and cybercriminals.
+**Blueprint Africa** is a group of volunteers and retired IT workers who have come together to help vulnerable people in the Global South protect themselves from scams and cybercriminals.
 
 Every year hundreds of millions of dollars are lost to online fraud and the problem is growing year on year. This represents a significant drag on business and economic development. 
 
