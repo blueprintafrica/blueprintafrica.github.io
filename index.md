@@ -9,6 +9,3 @@ Every year hundreds of millions of dollars are lost to online fraud and the prob
 In 2020, the Cybersecurity Exposure Index ranked Africa as [the continent with the highest exposure to cybercrime globally](https://passwordmanagers.co/cybersecurity-exposure-index/#global). Several countries in the region still lack dedicated cybercrime legislation. 
 
 There are **effective countermeasures** you can take to minimise the impact of online crime. We can get a volunteer to teach you security skills in a free informal meeting to show you how to protect yourself.
-
-<!--- Comments are Fun [logo](https://blueprintafrica.github.io/assets/blueprint.png) --->
-![pic](https://blueprintafrica.github.io/assets/cybersecurity.png)
