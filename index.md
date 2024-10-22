@@ -12,12 +12,12 @@ There are **effective countermeasures** you can take to minimise the impact of o
 
 If you would like us to organise a training session, please get in touch, by post or email:
 
-> Blueprint Africa
-> PO Box 81711
-> London E2 2JW
-> United Kingdom
-
-> [info@blueprintafrica.org](mailto:info@blueprintafrica.org)
+<div align="center">Blueprint Africa<br>
+PO Box 81711<br>
+London E2 2JW<br>
+United Kingdom<br>
+<br>
+[info@blueprintafrica.org](mailto:info@blueprintafrica.org)</div>
 
 ![cyber](/assets/images/Cybersecurity.png "name")
 
