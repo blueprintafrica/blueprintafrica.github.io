@@ -17,7 +17,6 @@ PO Box 81711<br>
 London E2 2JW<br>
 United Kingdom<br>
 <br>
-[info@blueprintafrica.org](mailto:info@blueprintafrica.org)</div>
+info@blueprintafrica.org</div>
 
-![cyber](/assets/images/Cybersecurity.png "name")
 
