@@ -10,7 +10,7 @@ In 2020, the Cybersecurity Exposure Index ranked Africa as [the continent with t
 
 There are **effective countermeasures** you can take to minimise the impact of online crime. We can get a volunteer to teach you security skills in a free informal meeting to show you how to protect yourself.
 
-If you would like us to organise a training session, please get in touch, by post or email:
+If you would like us to organise a training session, **please get in touch**, by post or email:
 
 <div align="center">Blueprint Africa<br>
 PO Box 81711<br>
